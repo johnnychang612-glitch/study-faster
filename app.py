@@ -1240,7 +1240,7 @@ HTML = r"""
 * {
     box-sizing: border-box;
 }
-
+</head>
 body {
     margin: 0;
     font-family: Arial, Helvetica, sans-serif;
