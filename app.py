@@ -1229,7 +1229,7 @@ HTML = r"""
 <html lang="en">
 
 <head>
-    meta name="google-site-verification" content="6UsZCYhWi-8ryfg4oktCx2A
+   <meta name="google-site-verification" content="6UsZCYhWi-8ryfg4oktCx2A>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
